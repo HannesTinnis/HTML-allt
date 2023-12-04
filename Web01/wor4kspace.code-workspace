@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Programmering/modul4"
+		},
+		{
+			"path": "../Programmering/modul5"
+		},
+		{
+			"path": "../Programmering/modul3"
+		},
+		{
+			"path": "Uppgift 4"
+		},
+		{
+			"path": "Uppgift 5"
+		},
+		{
+			"path": "../Programmering/projekt"
+		},
+		{
+			"path": "Uppgift 5.1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uppgift 5"
+	}
+}
